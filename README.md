@@ -1,7 +1,7 @@
 <table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 14px; color: #000;">
   <tr>
     <td style="padding-right: 15px;">
-      <img src="https://raw.githubusercontent.com/veyselozturk/avek-assets/main/logo.png" alt="AVEK Logo" width="100">
+      <img src="https://raw.githubusercontent.com/veyselozturk/avek-assets/main/aveklogo2.png" alt="AVEK Logo" width="100">
     </td>
     <td style="border-left: 1px solid #ccc; padding-left: 15px;">
       <strong>AVEK TEKNİK DIŞ TİCARET LİMİTED ŞİRKETİ</strong><br>
