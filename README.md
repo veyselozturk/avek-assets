@@ -1,13 +1,15 @@
-<table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 14px; color: #000;">
+<table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 15px; color: #222;">
   <tr>
     <td style="padding-right: 15px;">
-      <img src="https://raw.githubusercontent.com/veyselozturk/avek-assets/main/AVEK%20LOGO2.jpg" alt="AVEK Logo" width="100">
+      <img src="https://raw.githubusercontent.com/veyselozturk/avek-assets/main/AVEK%20LOGO2.jpg" alt="AVEK Logo" width="120" style="border-radius: 8px;">
     </td>
-    <td style="border-left: 1px solid #ccc; padding-left: 15px;">
-      <strong>AVEK TEKNİK DIŞ TİCARET LİMİTED ŞİRKETİ</strong><br>
-      <a href="https://avekteknik.com" style="color: #4a4a4a; text-decoration: none;">avekteknik.com</a><br>
-      Esentepe Mah. Büyükdere Cad. No:198/8 Şişli / İstanbul<br>
-      📞 +90 535 503 29 61
+    <td style="border-left: 2px solid #0066cc; padding-left: 15px;">
+      <div style="font-size: 16px; font-weight: bold; color: #003366;">AVEK TEKNİK DIŞ TİCARET LTD. ŞTİ.</div>
+      <div style="margin: 4px 0;">
+        <a href="https://avekteknik.com" style="color: #0066cc; text-decoration: none;">🌐 avekteknik.com</a>
+      </div>
+      <div style="color: #555;">📍 Esentepe Mah. Büyükdere Cd. No:198/8 Şişli / İstanbul</div>
+      <div style="color: #555;">📞 +90 535 503 29 61</div>
     </td>
   </tr>
 </table>
