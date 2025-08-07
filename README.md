@@ -8,7 +8,7 @@
       <div style="margin: 4px 0;">
         <a href="https://avekteknik.com" style="color: #0066cc; text-decoration: none;">🌐 avekteknik.com</a>
       </div>
-      <div style="color: #555;">📍 Esentepe Mah. Büyükdere Cd. No:198/8 Şişli / İstanbul</div>
+      <div style="color: #555;">📍 Esentepe Mah. Büyükdere Cd. No:198/6 Şişli / İstanbul</div>
       <div style="color: #555;">📞 +90 535 503 29 61</div>
     </td>
   </tr>
